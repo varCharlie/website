@@ -1,0 +1,15 @@
+.mono { font-family: monospace; }
+.sans-serif { font-family: sans-serif; }
+
+.base-bg {
+    background: linear-gradient(to bottom, rgba(85,83,219,1), rgba(9,13,5,1));
+}
+
+.content-bg {
+    background: #EEE;
+}
+
+.content-bg-fade {
+    background: linear-gradient(to bottom, #EEE, #BBB);
+}
+
